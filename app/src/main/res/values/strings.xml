@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Assignment3</string>
+    <string name="no1">เบอร์ 1</string>
+    <string name="no2">เบอร์ 2</string>
+    <string name="no3">เบอร์ 3</string>
+    <string name="no4">เบอร์ 4</string>
+    <string name="no5">เบอร์ 5</string>
+    <string name="no6">เบอร์ 6</string>
+    <string name="no7">เบอร์ 7</string>
+    <string name="no8">เบอร์ 8</string>
+    <string name="no9">เบอร์ 9</string>
+    <string name="no10">เบอร์ 10</string>
+    <string name="info1">คำทำนาย 1</string>
+    <string name="info2">คำทำนาย 2</string>
+    <string name="info3">คำทำนาย 3</string>
+    <string name="info4">คำทำนาย 4</string>
+    <string name="info5">คำทำนาย 5</string>
+    <string name="info6">คำทำนาย 6</string>
+    <string name="info7">คำทำนาย 7</string>
+    <string name="info8">คำทำนาย 8</string>
+    <string name="info9">คำทำนาย 9</string>
+    <string name="info10">คำทำนาย 10</string>
+    <string name="title">ทำนายชะตาชีวิต</string>
+    <string name="desc">เขย่าเพื่อเริ่มทำนาย</string>
+</resources>
